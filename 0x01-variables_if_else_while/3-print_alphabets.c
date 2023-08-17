@@ -18,6 +18,10 @@ int main(void)
 			putchar(a);
 			a++;
 		}
+	while
+		(b <= 'z') {
+			putchar (b);
+		}
 	putchar('\n');
 		return (0);
 }
