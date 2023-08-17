@@ -12,7 +12,7 @@ int main(void)
 	c = 'a';
 	while
 		(c <= 'z') {
-			purchase(c);
+			putchar(c);
 			c++;
 		}
 	putchar('\n');
